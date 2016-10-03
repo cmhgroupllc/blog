@@ -1,7 +1,8 @@
 {
   "meta": {
-    "username": "cmhgroupllc/blog",
-    "repositoryName": "",
+    "username": "cmhgroupllc",
+    "repositoryName": "blog",
+    "cname": "blog.tripcommander.us",
     "branch": "gh-pages",
   },
   "site": {
