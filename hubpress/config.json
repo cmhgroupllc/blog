@@ -5,6 +5,10 @@
     "branch": "gh-pages",
     "cname": "blog.tripcommander.us"
   },
+  "site": {
+    "title": "Trip Commander"
+  },
+  "socialnetwork": {},
   "theme": {
     "name": "casper"
   }
