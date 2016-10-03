@@ -5,15 +5,6 @@
     "branch": "gh-pages",
     "cname": "blog.tripcommander.us"
   },
-  "site": {
-    "title": "Trip Commander"
-  },
-  "socialnetwork": {
-    "twitter": "https://twitter.com/TripCommander",
-    "googleplus": "https://plus.google.com/+TripcommanderUs",
-    "facebook": "https://www.facebook.com/TripCommander/",
-    "instagram": "https://www.instagram.com/tripcommander/"
-  },
   "theme": {
     "name": "casper"
   }
