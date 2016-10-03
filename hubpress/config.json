@@ -1,10 +1,21 @@
 {
   "meta": {
     "username": "cmhgroupllc",
-    "repositoryName": "",
-    "branch": "gh-pages"
+    "repositoryName": "blog",
+    "branch": "gh-pages",
+    "cname": "blog.tripcommander.us"
+  },
+  "site": {
+    "title": "Trip Commander"
+  },
+  "socialnetwork": {
+    "email": "devteam@tripcommander.us",
+    "twitter": "https://twitter.com/TripCommander",
+    "googleplus": "https://plus.google.com/+TripcommanderUs",
+    "facebook": "https://www.facebook.com/TripCommander/",
+    "instagram": "https://www.instagram.com/tripcommander/"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
