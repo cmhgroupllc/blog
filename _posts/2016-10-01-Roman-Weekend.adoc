@@ -1,0 +1,4 @@
+= Roman Weekend
+:published_at: 2016-10-01
+:hp-image: italy_rome_travel_photography-004.jpg
+image::/images/italy_rome_travel_photography-004.jpg
